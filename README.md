@@ -1,6 +1,6 @@
 # Michigan-Protest
 
-##Abstract: Trust in the government is an important dimension of happiness according to the World Happiness
+## Abstract: Trust in the government is an important dimension of happiness according to the World Happiness
 Report. Recently, however, social media platforms have been exploited to erode this trust by spreading
 hate-filled, violent, anti-government sentiment. This trend was amplified during the Covid-19 pandemic to
 protest the unpopular public health and safety measures imposed by governments to curb the spread
